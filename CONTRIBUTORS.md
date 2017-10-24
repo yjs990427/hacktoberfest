@@ -1,3 +1,8 @@
+#### Name: [Patrick Yi](https://github.com/yjs990427)
+ - Place: Waterloo, ON
+ - Bio: Studying CS 
+ - Github: [yjs990427](https://github.com/yjs990427)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
